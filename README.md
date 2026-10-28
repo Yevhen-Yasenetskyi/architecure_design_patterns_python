@@ -28,7 +28,7 @@ graph TB
         getAct[GET activities]
         postAct[POST activities]
         postLog[POST log]
-        undo[POST undo]
+        undo[POST /log/undo]
         getNotes[GET notices]
         getCal[GET calories]
         postUser[POST user]

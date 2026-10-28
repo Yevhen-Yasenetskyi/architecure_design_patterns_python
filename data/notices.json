@@ -5,5 +5,18 @@
     "minutes": 30,
     "calories": 300,
     "at": "2026-10-28T10:33:14"
+  },
+  {
+    "event": "activity_logged",
+    "type": "running",
+    "minutes": 30,
+    "calories": 300,
+    "at": "2026-10-28T11:05:17"
+  },
+  {
+    "event": "weekly_goal_reached",
+    "calories": 600,
+    "goal": 500,
+    "at": "2026-10-28T11:05:17"
   }
 ]
