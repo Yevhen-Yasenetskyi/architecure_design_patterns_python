@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "event": "activity_logged",
+    "type": "running",
+    "minutes": 30,
+    "calories": 300,
+    "at": "2026-10-28T10:33:14"
+  }
+]
